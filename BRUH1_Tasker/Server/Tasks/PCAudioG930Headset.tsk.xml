@@ -1,0 +1,57 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Task sr="task15">
+		<cdate>1421204999817</cdate>
+		<edate>1444543346191</edate>
+		<id>15</id>
+		<nme>PCAudioG930Headset</nme>
+		<Action sr="act0" ve="7">
+			<code>445</code>
+			<Str sr="arg0" ve="3">zedge/notification_sound/Google_Glass_Success-notification_sound-1702253.mp3</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>16087</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Files>&lt;null&gt;</Files>
+					<Files-type>java.lang.String</Files-type>
+					<collapsekey>&lt;null&gt;</collapsekey>
+					<collapsekey-type>java.lang.String</collapsekey-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Recipient: CMstormtrooper
+Message: G930HeadsetDefault</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_message_recipient_name>&lt;null&gt;</config_message_recipient_name>
+					<config_message_recipient_name-type>java.lang.String</config_message_recipient_name-type>
+					<configchannel>&lt;null&gt;</configchannel>
+					<configchannel-type>java.lang.String</configchannel-type>
+					<configregid>CMstormtrooper</configregid>
+					<configregid-type>java.lang.String</configregid-type>
+					<configttl>&lt;null&gt;</configttl>
+					<configttl-type>java.lang.String</configttl-type>
+					<message>G930HeadsetDefault</message>
+					<message-type>java.lang.String</message-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid message passwordSendmessage configregid configttl configchannel collapsekey config_message_recipient_name Files target </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<passwordSendmessage>&lt;null&gt;</passwordSendmessage>
+					<passwordSendmessage-type>java.lang.String</passwordSendmessage-type>
+					<plugininstanceid>6d45cb8a-0ac7-4ae3-96d3-ed0f4a2e8446</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentSendMessage</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<target>&lt;null&gt;</target>
+					<target-type>java.lang.String</target-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote</Str>
+			<Str sr="arg2" ve="3">AutoRemote Message</Str>
+			<Int sr="arg3" val="200"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_hardware_headset</nme>
+		</Img>
+	</Task>
+</TaskerData>

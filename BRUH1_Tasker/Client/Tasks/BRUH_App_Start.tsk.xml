@@ -1,0 +1,43 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task154">
+		<cdate>1431060382063</cdate>
+		<edate>1444548058630</edate>
+		<id>154</id>
+		<nme>BRUH App Start</nme>
+		<pri>100</pri>
+		<Kid sr="Kid">
+			<flgs>1</flgs>
+			<launchID>154</launchID>
+			<pkg>com.techadventures.familycommunicator</pkg>
+			<vnme>1.0</vnme>
+			<vnum>3</vnum>
+		</Kid>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%Messagedevice</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%Message</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>47</code>
+			<Str sr="arg0" ve="3">BRUH 1.0</Str>
+			<Int sr="arg1" val="9"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="1"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<uri>content://com.android.providers.media.documents/document/image%3A6611</uri>
+		</Img>
+	</Task>
+</TaskerData>

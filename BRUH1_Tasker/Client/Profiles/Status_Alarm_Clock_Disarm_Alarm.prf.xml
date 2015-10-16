@@ -1,0 +1,93 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof69" ve="2">
+		<cdate>1434720851283</cdate>
+		<cldm>300</cldm>
+		<clp>true</clp>
+		<edate>1444547974387</edate>
+		<id>69</id>
+		<mid0>56</mid0>
+		<nme>Status Alarm Clock Disarm Alarm</nme>
+		<Event sr="con0" ve="2">
+			<code>305</code>
+			<Str sr="arg0" ve="3"/>
+		</Event>
+		<State sr="con1" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3">BCRnetwork5G</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+		</State>
+		<State sr="con2" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%Alarm</lhs>
+					<op>2</op>
+					<rhs>armed</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Task sr="task56">
+		<cdate>1428814636881</cdate>
+		<edate>1441367507527</edate>
+		<id>56</id>
+		<nme>BRUHAlarmOverrideDisarmed</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">Alarm Off</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>16087</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Files>&lt;null&gt;</Files>
+					<Files-type>java.lang.String</Files-type>
+					<collapsekey>&lt;null&gt;</collapsekey>
+					<collapsekey-type>java.lang.String</collapsekey-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Recipient: Group
+Message: security disarmed=:=
+Password: password
+Channel: family</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_message_recipient_name>&lt;null&gt;</config_message_recipient_name>
+					<config_message_recipient_name-type>java.lang.String</config_message_recipient_name-type>
+					<configchannel>family</configchannel>
+					<configchannel-type>java.lang.String</configchannel-type>
+					<configregid>devicechannel</configregid>
+					<configregid-type>java.lang.String</configregid-type>
+					<configttl>&lt;null&gt;</configttl>
+					<configttl-type>java.lang.String</configttl-type>
+					<message>security disarmed=:=</message>
+					<message-type>java.lang.String</message-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>message passwordSendmessage configregid configdevicetype configttl configchannel collapsekey config_message_recipient_name Files target RedirecttoPort plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<passwordSendmessage>password</passwordSendmessage>
+					<passwordSendmessage-type>java.lang.String</passwordSendmessage-type>
+					<plugininstanceid>90ae2378-ee68-456c-886f-92efe1e3d0b7</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentSendMessage</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<target>&lt;null&gt;</target>
+					<target-type>java.lang.String</target-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote</Str>
+			<Str sr="arg2" ve="3">AutoRemote Message</Str>
+			<Int sr="arg3" val="200"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_aaa_ext_show</nme>
+		</Img>
+	</Task>
+</TaskerData>

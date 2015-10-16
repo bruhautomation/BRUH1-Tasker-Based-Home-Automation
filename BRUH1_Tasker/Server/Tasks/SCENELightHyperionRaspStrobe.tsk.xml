@@ -1,0 +1,44 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Task sr="task58">
+		<cdate>1421849773143</cdate>
+		<edate>1444543760795</edate>
+		<id>58</id>
+		<nme>SCENELightHyperionRaspStrobe</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>6517</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.asif.plugin.sendexpect.extra.HOST>192.168.1.103</com.asif.plugin.sendexpect.extra.HOST>
+					<com.asif.plugin.sendexpect.extra.HOST-type>java.lang.String</com.asif.plugin.sendexpect.extra.HOST-type>
+					<com.asif.plugin.sendexpect.extra.INT_VERSION_CODE>2000031</com.asif.plugin.sendexpect.extra.INT_VERSION_CODE>
+					<com.asif.plugin.sendexpect.extra.INT_VERSION_CODE-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.INT_VERSION_CODE-type>
+					<com.asif.plugin.sendexpect.extra.NUM_SENDS>1</com.asif.plugin.sendexpect.extra.NUM_SENDS>
+					<com.asif.plugin.sendexpect.extra.NUM_SENDS-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.NUM_SENDS-type>
+					<com.asif.plugin.sendexpect.extra.PORT>19444</com.asif.plugin.sendexpect.extra.PORT>
+					<com.asif.plugin.sendexpect.extra.PORT-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.PORT-type>
+					<com.asif.plugin.sendexpect.extra.SEND_DATA_0>S:{"command":"effect","effect":{"name":"Strobe Raspbmc"},"priority":50}
+Reply:{"success":true}\n</com.asif.plugin.sendexpect.extra.SEND_DATA_0>
+					<com.asif.plugin.sendexpect.extra.SEND_DATA_0-type>java.lang.String</com.asif.plugin.sendexpect.extra.SEND_DATA_0-type>
+					<com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA>&lt;StringArray sr=""&gt;&lt;_array_com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA0&gt;S:{"command":"effect","effect":{"name":"Strobe Raspbmc"},"priority":50}
+Reply:{"success":true}\n&lt;/_array_com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA0&gt;&lt;/StringArray&gt;</com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA>
+					<com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA-type>[Ljava.lang.String;</com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA-type>
+					<com.asif.plugin.sendexpect.extra.TIMEOUT>5</com.asif.plugin.sendexpect.extra.TIMEOUT>
+					<com.asif.plugin.sendexpect.extra.TIMEOUT-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.TIMEOUT-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>sendexpect://192.168.1.103:19444/...</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.asif.plugin.sendexpect.extra.SEND_DATA_0</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.asif.plugin.sendexpect</Str>
+			<Str sr="arg2" ve="3">Send/Expect</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_aaa_ext_sun</nme>
+		</Img>
+	</Task>
+</TaskerData>

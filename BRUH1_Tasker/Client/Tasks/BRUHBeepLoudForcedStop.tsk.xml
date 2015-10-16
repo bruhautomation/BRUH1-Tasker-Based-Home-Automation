@@ -1,0 +1,18 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task73">
+		<cdate>1430422187221</cdate>
+		<edate>1439608997101</edate>
+		<id>73</id>
+		<nme>BRUHBeepLoudForcedStop</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>449</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>779</code>
+			<Str sr="arg0" ve="3">Ringing</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

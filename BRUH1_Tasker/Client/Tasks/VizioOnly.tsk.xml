@@ -1,0 +1,51 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task3">
+		<cdate>1421263086962</cdate>
+		<edate>1421378772939</edate>
+		<id>3</id>
+		<nme>VizioOnly</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>16087</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Files>&lt;null&gt;</Files>
+					<Files-type>java.lang.String</Files-type>
+					<collapsekey>&lt;null&gt;</collapsekey>
+					<collapsekey-type>java.lang.String</collapsekey-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Recipient: CMstormtrooper
+Message: CMviziotv</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_message_recipient_name>&lt;null&gt;</config_message_recipient_name>
+					<config_message_recipient_name-type>java.lang.String</config_message_recipient_name-type>
+					<configchannel>&lt;null&gt;</configchannel>
+					<configchannel-type>java.lang.String</configchannel-type>
+					<configregid>CMstormtrooper</configregid>
+					<configregid-type>java.lang.String</configregid-type>
+					<configttl>&lt;null&gt;</configttl>
+					<configttl-type>java.lang.String</configttl-type>
+					<message>CMviziotv</message>
+					<message-type>java.lang.String</message-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid message passwordSendmessage configregid configttl configchannel collapsekey config_message_recipient_name Files target </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<passwordSendmessage>&lt;null&gt;</passwordSendmessage>
+					<passwordSendmessage-type>java.lang.String</passwordSendmessage-type>
+					<plugininstanceid>d2dc1463-7f2f-4bbf-b8ab-d2bbd5d9c215</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentSendMessage</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<target>&lt;null&gt;</target>
+					<target-type>java.lang.String</target-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote</Str>
+			<Str sr="arg2" ve="3">AutoRemote Message</Str>
+			<Int sr="arg3" val="200"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_aaa_ext_glasses</nme>
+		</Img>
+	</Task>
+</TaskerData>

@@ -1,0 +1,97 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Task sr="task75">
+		<cdate>1422576556782</cdate>
+		<edate>1444547176425</edate>
+		<id>75</id>
+		<nme>TVon</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>445</code>
+			<Str sr="arg0" ve="3">zedge/notification_sound/Google_Glass_Success-notification_sound-1702253.mp3</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>5436</code>
+			<on>false</on>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Address>192.168.1.103</Address>
+					<Address-type>java.lang.String</Address-type>
+					<BUNDLE_EXTRA_INT_VERSION_CODE>1</BUNDLE_EXTRA_INT_VERSION_CODE>
+					<BUNDLE_EXTRA_INT_VERSION_CODE-type>java.lang.Integer</BUNDLE_EXTRA_INT_VERSION_CODE-type>
+					<Command>sudo python /home/pi/servo/servotoggle.py</Command>
+					<Command-type>java.lang.String</Command-type>
+					<Keypair_File></Keypair_File>
+					<Keypair_File-type>java.lang.String</Keypair_File-type>
+					<Password>password</Password>
+					<Password-type>java.lang.String</Password-type>
+					<Port>22</Port>
+					<Port-type>java.lang.String</Port-type>
+					<Return_Output>true</Return_Output>
+					<Return_Output-type>java.lang.Boolean</Return_Output-type>
+					<Username>pi</Username>
+					<Username-type>java.lang.String</Username-type>
+					<Variable>%raspberrypi</Variable>
+					<Variable-type>java.lang.String</Variable-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>sudo python /home/pi/servo/servotoggle.py</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>Command Address Port Username</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.laptopfreek0.sshplugin.paid</Str>
+			<Str sr="arg2" ve="3">SSH Plugin</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TVstatus</Str>
+			<Str sr="arg1" ve="3">on</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>5436</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Address>192.168.1.103</Address>
+					<Address-type>java.lang.String</Address-type>
+					<BUNDLE_EXTRA_INT_VERSION_CODE>1</BUNDLE_EXTRA_INT_VERSION_CODE>
+					<BUNDLE_EXTRA_INT_VERSION_CODE-type>java.lang.Integer</BUNDLE_EXTRA_INT_VERSION_CODE-type>
+					<Command>sudo python /home/pi/bruh2/cecscript/allon.py</Command>
+					<Command-type>java.lang.String</Command-type>
+					<Keypair_File></Keypair_File>
+					<Keypair_File-type>java.lang.String</Keypair_File-type>
+					<Password>password</Password>
+					<Password-type>java.lang.String</Password-type>
+					<Password_Variable>false</Password_Variable>
+					<Password_Variable-type>java.lang.Boolean</Password_Variable-type>
+					<Port>22</Port>
+					<Port-type>java.lang.String</Port-type>
+					<Return_Output>true</Return_Output>
+					<Return_Output-type>java.lang.Boolean</Return_Output-type>
+					<Username>pi</Username>
+					<Username-type>java.lang.String</Username-type>
+					<Variable>%TVto</Variable>
+					<Variable-type>java.lang.String</Variable-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>sudo python /home/pi/bruh2/cecscript/allon.py</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>Command Address Port Username Password</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.laptopfreek0.sshplugin.paid</Str>
+			<Str sr="arg2" ve="3">SSH Plugin</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_hardware_dock</nme>
+		</Img>
+	</Task>
+</TaskerData>

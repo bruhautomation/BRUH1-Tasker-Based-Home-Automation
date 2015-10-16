@@ -1,0 +1,101 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Profile sr="prof83" ve="2">
+		<cdate>1444546731486</cdate>
+		<cldm>36000</cldm>
+		<clp>true</clp>
+		<edate>1444544842544</edate>
+		<id>83</id>
+		<mid0>74</mid0>
+		<nme>CONDBlindsBRAwake</nme>
+		<State sr="con0" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<Condition sr="c0" ve="3">
+					<lhs>%BRstatus</lhs>
+					<op>3</op>
+					<rhs>sleeping</rhs>
+				</Condition>
+				<Condition sr="c1" ve="3">
+					<lhs>%CRstatus</lhs>
+					<op>3</op>
+					<rhs>sleeping</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+		<Time sr="con1">
+			<fromvar>%SUNRISE</fromvar>
+			<tovar>%SUNSET</tovar>
+		</Time>
+	</Profile>
+	<Task sr="task74">
+		<cdate>1426129287105</cdate>
+		<edate>1442657974338</edate>
+		<id>74</id>
+		<nme>RF BR Blinds Morning</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>445</code>
+			<Str sr="arg0" ve="3">zedge/notification_sound/Google_Glass_Success-notification_sound-1702253.mp3</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">RF BR Fan Off</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=7
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%BRBlinds</Str>
+			<Str sr="arg1" ve="3">open</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">RF LR Lamp Off</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">SendStatus</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_zzz_solid_up</nme>
+		</Img>
+	</Task>
+</TaskerData>

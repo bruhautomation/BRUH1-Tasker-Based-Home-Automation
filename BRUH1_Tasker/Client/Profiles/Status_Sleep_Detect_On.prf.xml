@@ -1,0 +1,26 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof102" ve="2">
+		<cdate>1438828844219</cdate>
+		<clp>true</clp>
+		<edate>1444713860114</edate>
+		<id>102</id>
+		<mid0>103</mid0>
+		<nme>Status Sleep Detect On</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<pin>true</pin>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Task sr="task103">
+		<cdate>1438828853570</cdate>
+		<edate>1440909579482</edate>
+		<id>103</id>
+		<nme>BRUHSleepOn</nme>
+		<Action sr="act0" ve="7">
+			<code>159</code>
+			<Str sr="arg0" ve="3">Status Sleep</Str>
+			<Int sr="arg1" val="1"/>
+		</Action>
+	</Task>
+</TaskerData>

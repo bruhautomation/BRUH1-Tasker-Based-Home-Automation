@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BCR Home Lighting Controls</title>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  <style>
+    body {
+      padding-top: 70px
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href=".">BCR Home Lighting Controls</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <label>Bedroom Fan</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="1" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="1" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+
+    <label>Bedroom Lamp</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="2" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="2" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+
+    <label>Living Room Outlet</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="3" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="3" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+	
+	 <label>Living Room Accessory Outlet</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="4" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="4" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+	
+	 <label>Kitchen Accessory Outlet</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="5" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="5" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+
+    <label>WeMo Living Room Lights</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="6" data-outletStatus="on" class="btn btn-default toggleOutlet">On</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="6" data-outletStatus="off" class="btn btn-default toggleOutlet">Off</button>
+      </div>
+    </div>
+
+    <label>Blinds Bedroom</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="7" data-outletStatus="on" class="btn btn-default toggleOutlet">Open</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="7" data-outletStatus="off" class="btn btn-default toggleOutlet">Close</button>
+      </div>
+    </div>	
+	
+    <label>Blinds Kitchen</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="8" data-outletStatus="on" class="btn btn-default toggleOutlet">Open</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="8" data-outletStatus="off" class="btn btn-default toggleOutlet">Close</button>
+      </div>
+    </div> 
+
+
+ <label>Blinds Living Room</label>
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="9" data-outletStatus="on" class="btn btn-default toggleOutlet">Open</button>
+      </div>
+      <div class="btn-group" role="group">
+        <button type="button" data-outletId="9" data-outletStatus="off" class="btn btn-default toggleOutlet">Close</button>
+      </div>
+    </div>
+
+
+		
+	
+  </div>
+</body>
+<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="script.js"></script>
+
+</html>

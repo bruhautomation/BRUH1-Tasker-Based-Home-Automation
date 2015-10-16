@@ -1,0 +1,100 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Task sr="task50">
+		<cdate>1426129236077</cdate>
+		<edate>1444543159296</edate>
+		<id>50</id>
+		<nme>RF LR Lamp On</nme>
+		<Action sr="act0" ve="7">
+			<code>445</code>
+			<Str sr="arg0" ve="3">zedge/notification_sound/Google_Glass_Success-notification_sound-1702253.mp3</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>116</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>116</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>116</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">http://11.111.111.111:8123/api/states/switch.livingroom_lamp?api_password=Password</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3">{ "state":"on" }</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3">application/json</Str>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_aaa_ext_bulb</nme>
+		</Img>
+	</Task>
+</TaskerData>

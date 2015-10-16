@@ -1,0 +1,989 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<dmetric>1920.0,1080.0</dmetric>
+	<Scene sr="sceneBRUHPopupLights">
+		<cdate>1430963827112</cdate>
+		<edate>1443846063035</edate>
+		<gridSize>10</gridSize>
+		<heightLand>490</heightLand>
+		<heightPort>1477</heightPort>
+		<nme>BRUHPopupLights</nme>
+		<widthLand>675</widthLand>
+		<widthPort>720</widthPort>
+		<RectElement sr="elements0">
+			<flags>4</flags>
+			<geom>0,162,648,6,0,162,675,6</geom>
+			<Str sr="arg0" ve="3">Header</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#77333333</Str>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<TextElement sr="elements1" ve="3">
+			<clickTask>-936</clickTask>
+			<flags>5</flags>
+			<geom>0,13,718,1462,0,157,674,333</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="1"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#FAFAFA</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="2"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements10" ve="3">
+			<clickTask>136</clickTask>
+			<flags>4</flags>
+			<geom>433,434,257,139,433,434,257,139</geom>
+			<Str sr="arg0" ve="3">Wemo Off</Str>
+			<Str sr="arg1" ve="3">Wemo Off</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements11" ve="3">
+			<clickTask>138</clickTask>
+			<flags>4</flags>
+			<geom>129,600,257,139,129,600,257,139</geom>
+			<Str sr="arg0" ve="3">Hyperion On</Str>
+			<Str sr="arg1" ve="3">Hyperion</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements12" ve="3">
+			<clickTask>137</clickTask>
+			<flags>4</flags>
+			<geom>433,600,257,139,433,600,257,139</geom>
+			<Str sr="arg0" ve="3">Hyperion Off</Str>
+			<Str sr="arg1" ve="3">Hyperion Off</Str>
+			<Int sr="arg2" val="12"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<RectElement sr="elements13">
+			<flags>4</flags>
+			<geom>0,759,705,5,0,759,705,5</geom>
+			<Str sr="arg0" ve="3">Line11</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#80C5C5C5</Str>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<TextElement sr="elements14" ve="3">
+			<flags>4</flags>
+			<geom>114,768,316,100,140,280,640,140</geom>
+			<Str sr="arg0" ve="3">Bed Room</Str>
+			<Str sr="arg1" ve="3">Bed Room</Str>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ImageElement sr="elements15" ve="2">
+			<flags>4</flags>
+			<geom>9,768,108,100,9,768,108,100</geom>
+			<Str sr="arg0" ve="3">LRlogo1</Str>
+			<Img sr="arg1" ve="2">
+				<nme>hl_rating_good</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<Str sr="arg3" ve="3">#FF0099CC</Str>
+		</ImageElement>
+		<TextElement sr="elements16" ve="3">
+			<clickTask>131</clickTask>
+			<flags>4</flags>
+			<geom>124,864,257,139,124,864,257,139</geom>
+			<Str sr="arg0" ve="3">Lampbr</Str>
+			<Str sr="arg1" ve="3">Lamp On</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements17" ve="3">
+			<clickTask>132</clickTask>
+			<flags>4</flags>
+			<geom>428,862,259,139,428,862,259,139</geom>
+			<Str sr="arg0" ve="3">Lamp Off1</Str>
+			<Str sr="arg1" ve="3">Lamp Off</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements18" ve="3">
+			<clickTask>129</clickTask>
+			<flags>4</flags>
+			<geom>124,1027,257,139,124,1027,257,139</geom>
+			<Str sr="arg0" ve="3">Fan On</Str>
+			<Str sr="arg1" ve="3">Fan On</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements19" ve="3">
+			<clickTask>130</clickTask>
+			<flags>4</flags>
+			<geom>431,1027,257,139,431,1027,257,139</geom>
+			<Str sr="arg0" ve="3">Fan Off2</Str>
+			<Str sr="arg1" ve="3">Fan Off</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements2" ve="3">
+			<flags>4</flags>
+			<geom>0,0,705,177,6,0,294,72</geom>
+			<Str sr="arg0" ve="3">Text</Str>
+			<Str sr="arg1" ve="3">Title</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFF4F5F5</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">%BRUHcolor</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="2"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements20" ve="3">
+			<flags>4</flags>
+			<geom>114,1200,201,100,140,280,640,140</geom>
+			<Str sr="arg0" ve="3">Global</Str>
+			<Str sr="arg1" ve="3">Global</Str>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<RectElement sr="elements21">
+			<flags>4</flags>
+			<geom>0,1190,704,5,0,1190,704,5</geom>
+			<Str sr="arg0" ve="3">Line111</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#80C5C5C5</Str>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<ImageElement sr="elements22" ve="2">
+			<flags>4</flags>
+			<geom>9,1200,114,100,9,1200,114,100</geom>
+			<Str sr="arg0" ve="3">Global Logo</Str>
+			<Img sr="arg1" ve="2">
+				<nme>hl_location_web_site</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<Str sr="arg3" ve="3">#FF0099CC</Str>
+		</ImageElement>
+		<TextElement sr="elements23" ve="3">
+			<clickTask>143</clickTask>
+			<flags>4</flags>
+			<geom>124,1295,257,139,124,1295,257,139</geom>
+			<Str sr="arg0" ve="3">All On</Str>
+			<Str sr="arg1" ve="3">All On</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements24" ve="3">
+			<clickTask>144</clickTask>
+			<flags>4</flags>
+			<geom>431,1295,257,139,431,1295,257,139</geom>
+			<Str sr="arg0" ve="3">All Off</Str>
+			<Str sr="arg1" ve="3">All off armed</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ImageElement sr="elements3" ve="2">
+			<clickTask>118</clickTask>
+			<flags>4</flags>
+			<geom>18,40,98,99,18,40,98,99</geom>
+			<Str sr="arg0" ve="3">Image1</Str>
+			<Img sr="arg1" ve="2">
+				<nme>hd_ab_navigation_back</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<Str sr="arg3" ve="3">#FF0099CC</Str>
+		</ImageElement>
+		<TextElement sr="elements4" ve="3">
+			<flags>4</flags>
+			<geom>114,0,604,177,6,0,294,72</geom>
+			<Str sr="arg0" ve="3">Title</Str>
+			<Str sr="arg1" ve="3">Manual Light Control</Str>
+			<Int sr="arg2" val="21"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFF4F4F4</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">%BRUHcolor</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="2"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements5" ve="3">
+			<clickTask>133</clickTask>
+			<flags>4</flags>
+			<geom>129,267,257,139,129,267,257,139</geom>
+			<Str sr="arg0" ve="3">Lamp</Str>
+			<Str sr="arg1" ve="3">Lamp On</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements6" ve="3">
+			<clickTask>134</clickTask>
+			<flags>4</flags>
+			<geom>433,267,257,139,433,267,257,139</geom>
+			<Str sr="arg0" ve="3">Lamp Off</Str>
+			<Str sr="arg1" ve="3">Lamp Off</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<TextElement sr="elements7" ve="3">
+			<flags>4</flags>
+			<geom>121,171,376,100,140,280,640,140</geom>
+			<Str sr="arg0" ve="3">Living Room</Str>
+			<Str sr="arg1" ve="3">Living Room</Str>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ImageElement sr="elements8" ve="2">
+			<flags>4</flags>
+			<geom>26,175,98,100,26,175,98,100</geom>
+			<Str sr="arg0" ve="3">LRlogo</Str>
+			<Img sr="arg1" ve="2">
+				<nme>hl_aaa_ext_armchair</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<Str sr="arg3" ve="3">#FF0099CC</Str>
+		</ImageElement>
+		<TextElement sr="elements9" ve="3">
+			<clickTask>135</clickTask>
+			<flags>4</flags>
+			<geom>129,434,257,139,129,434,257,139</geom>
+			<Str sr="arg0" ve="3">Wemo On</Str>
+			<Str sr="arg1" ve="3">Wemo On</Str>
+			<Int sr="arg2" val="14"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Download/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">#83D2D2D2</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="20"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#FF000000</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">Popup</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task118">
+		<cdate>1431092969862</cdate>
+		<edate>1431092969862</edate>
+		<id>118</id>
+		<Action sr="act0" ve="7">
+			<code>49</code>
+			<Str sr="arg0" ve="3">BRUHPopupLights</Str>
+		</Action>
+	</Task>
+	<Task sr="task129">
+		<cdate>1431148941206</cdate>
+		<edate>1431148941206</edate>
+		<id>129</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=1
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=1
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task130">
+		<cdate>1431148941206</cdate>
+		<edate>1431148941206</edate>
+		<id>130</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=1
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=1
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task131">
+		<cdate>1431230967508</cdate>
+		<edate>1431230967508</edate>
+		<id>131</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=2
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=2
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task132">
+		<cdate>1431230987621</cdate>
+		<edate>1431230987621</edate>
+		<id>132</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=2
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=2
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task133">
+		<cdate>1431231036452</cdate>
+		<edate>1431231036452</edate>
+		<id>133</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task134">
+		<cdate>1431231070216</cdate>
+		<edate>1431231070216</edate>
+		<id>134</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=3
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task135">
+		<cdate>1431231107714</cdate>
+		<edate>1431231107714</edate>
+		<id>135</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=6
+outletStatus=on</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task136">
+		<cdate>1431231133224</cdate>
+		<edate>1431231133224</edate>
+		<id>136</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>116</code>
+			<Str sr="arg0" ve="3">192.168.1.103</Str>
+			<Str sr="arg1" ve="3">/rfoutlet/toggle.php</Str>
+			<Str sr="arg2" ve="3">outletId=6
+outletStatus=off</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="10"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task137">
+		<cdate>1431231209780</cdate>
+		<edate>1431231209780</edate>
+		<id>137</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>6517</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.asif.plugin.sendexpect.extra.HOST>192.168.1.103</com.asif.plugin.sendexpect.extra.HOST>
+					<com.asif.plugin.sendexpect.extra.HOST-type>java.lang.String</com.asif.plugin.sendexpect.extra.HOST-type>
+					<com.asif.plugin.sendexpect.extra.INT_VERSION_CODE>2000031</com.asif.plugin.sendexpect.extra.INT_VERSION_CODE>
+					<com.asif.plugin.sendexpect.extra.INT_VERSION_CODE-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.INT_VERSION_CODE-type>
+					<com.asif.plugin.sendexpect.extra.NUM_SENDS>1</com.asif.plugin.sendexpect.extra.NUM_SENDS>
+					<com.asif.plugin.sendexpect.extra.NUM_SENDS-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.NUM_SENDS-type>
+					<com.asif.plugin.sendexpect.extra.PORT>19444</com.asif.plugin.sendexpect.extra.PORT>
+					<com.asif.plugin.sendexpect.extra.PORT-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.PORT-type>
+					<com.asif.plugin.sendexpect.extra.SEND_DATA_0>S:{"command":"clear","priority":50}\n</com.asif.plugin.sendexpect.extra.SEND_DATA_0>
+					<com.asif.plugin.sendexpect.extra.SEND_DATA_0-type>java.lang.String</com.asif.plugin.sendexpect.extra.SEND_DATA_0-type>
+					<com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA>&lt;StringArray sr=""&gt;&lt;_array_com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA0&gt;S:{"command":"clear","priority":50}\n&lt;/_array_com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA0&gt;&lt;/StringArray&gt;</com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA>
+					<com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA-type>[Ljava.lang.String;</com.asif.plugin.sendexpect.extra.SEND_EXPECT_DATA-type>
+					<com.asif.plugin.sendexpect.extra.TIMEOUT>5</com.asif.plugin.sendexpect.extra.TIMEOUT>
+					<com.asif.plugin.sendexpect.extra.TIMEOUT-type>java.lang.Integer</com.asif.plugin.sendexpect.extra.TIMEOUT-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>sendexpect://192.168.1.103:19444/...</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.asif.plugin.sendexpect.extra.SEND_DATA_0</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.asif.plugin.sendexpect</Str>
+			<Str sr="arg2" ve="3">Send/Expect</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task138">
+		<cdate>1431231215704</cdate>
+		<edate>1431231215704</edate>
+		<id>138</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>nl.hyperion.hyperionfree.AdSupportedMainActivity</appClass>
+				<appPkg>nl.hyperion.hyperionfree</appPkg>
+				<label>Hyperion Free</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task143">
+		<cdate>1431148941206</cdate>
+		<edate>1431148941206</edate>
+		<id>143</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>16087</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Files>&lt;null&gt;</Files>
+					<Files-type>java.lang.String</Files-type>
+					<collapsekey>&lt;null&gt;</collapsekey>
+					<collapsekey-type>java.lang.String</collapsekey-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Recipient: nexus7
+Message: goodmorning
+Password: password</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_message_recipient_name>&lt;null&gt;</config_message_recipient_name>
+					<config_message_recipient_name-type>java.lang.String</config_message_recipient_name-type>
+					<configchannel>&lt;null&gt;</configchannel>
+					<configchannel-type>java.lang.String</configchannel-type>
+					<configregid>AAJHDKAAHJSKLDFHJKLSHDFUHJKSDFHKLSJHDFLKJHSDFsMNBNMXBVHJSDFLKJhsdkfjhsdfmSdfhjksdfkSSFjkhSDFusdfbnmSDfkjsdfkjsdfbsmdfsdfhkjSDfiuhSDfkjSDfbnmSDfkjhSDFuohSDFkljbSDfbmSDFhJKSDfuohSDFmsdfkl</configregid>
+					<configregid-type>java.lang.String</configregid-type>
+					<configttl>&lt;null&gt;</configttl>
+					<configttl-type>java.lang.String</configttl-type>
+					<message>goodmorning</message>
+					<message-type>java.lang.String</message-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid message passwordSendmessage configregid configttl configchannel collapsekey config_message_recipient_name Files target </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<passwordSendmessage>password</passwordSendmessage>
+					<passwordSendmessage-type>java.lang.String</passwordSendmessage-type>
+					<plugininstanceid>c6d9e390-1daf-41e4-a6ed-9284829525e7</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentSendMessage</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<target>&lt;null&gt;</target>
+					<target-type>java.lang.String</target-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote</Str>
+			<Str sr="arg2" ve="3">AutoRemote Message</Str>
+			<Int sr="arg3" val="200"/>
+		</Action>
+	</Task>
+	<Task sr="task144">
+		<cdate>1431148941206</cdate>
+		<edate>1431148941206</edate>
+		<id>144</id>
+		<Action sr="act0" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>16087</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Files>&lt;null&gt;</Files>
+					<Files-type>java.lang.String</Files-type>
+					<collapsekey>&lt;null&gt;</collapsekey>
+					<collapsekey-type>java.lang.String</collapsekey-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Recipient: nexus 7
+Message: goodnight=:=%DelayedShutdown
+Password: password</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_message_recipient_name>&lt;null&gt;</config_message_recipient_name>
+					<config_message_recipient_name-type>java.lang.String</config_message_recipient_name-type>
+					<configchannel>&lt;null&gt;</configchannel>
+					<configchannel-type>java.lang.String</configchannel-type>
+					<configregid>AAJHDKAAHJSKLDFHJKLSHDFUHJKSDFHKLSJHDFLKJHSDFsMNBNMXBVHJSDFLKJhsdkfjhsdfmSdfhjksdfkSSFjkhSDFusdfbnmSDfkjsdfkjsdfbsmdfsdfhkjSDfiuhSDfkjSDfbnmSDfkjhSDFuohSDFkljbSDfbmSDFhJKSDfuohSDFmsdfkl</configregid>
+					<configregid-type>java.lang.String</configregid-type>
+					<configttl>&lt;null&gt;</configttl>
+					<configttl-type>java.lang.String</configttl-type>
+					<message>goodnight=:=%DelayedShutdown</message>
+					<message-type>java.lang.String</message-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>message passwordSendmessage configregid configdevicetype configttl configchannel collapsekey config_message_recipient_name Files target RedirecttoPort plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<passwordSendmessage>password</passwordSendmessage>
+					<passwordSendmessage-type>java.lang.String</passwordSendmessage-type>
+					<plugininstanceid>349762f1-e3f0-4fe2-965c-98d9913896d9</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentSendMessage</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<target>&lt;null&gt;</target>
+					<target-type>java.lang.String</target-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote</Str>
+			<Str sr="arg2" ve="3">AutoRemote Message</Str>
+			<Int sr="arg3" val="200"/>
+		</Action>
+	</Task>
+</TaskerData>

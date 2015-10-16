@@ -1,0 +1,19 @@
+<TaskerData sr="" dvi="1" tv="4.7u2m">
+	<Task sr="task54">
+		<cdate>1428453839920</cdate>
+		<edate>1443941019343</edate>
+		<id>54</id>
+		<nme>AlarmFDLogic</nme>
+		<Action sr="act0" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">AlarmFDSound</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

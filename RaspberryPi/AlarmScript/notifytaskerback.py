@@ -1,0 +1,1 @@
+sudo curl  "https://autoremotejoaomgcd.appspot.com/sendmessage?key=whateveryourpersonalkeyis&message=alarm%20motion%20detected%20back%20door&sender=pi&password=test"  

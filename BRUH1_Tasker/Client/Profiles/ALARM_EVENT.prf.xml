@@ -1,0 +1,59 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof53" ve="2">
+		<cdate>1421960251556</cdate>
+		<clp>true</clp>
+		<edate>1444548041073</edate>
+		<id>53</id>
+		<mid0>52</mid0>
+		<nme>ALARM EVENT</nme>
+		<Event sr="con0" ve="2">
+			<code>3050</code>
+			<pri>0</pri>
+			<Str sr="arg0" ve="3">%BRUHAlarm</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Event>
+	</Profile>
+	<Task sr="task52">
+		<cdate>1421960274463</cdate>
+		<edate>1444548061136</edate>
+		<id>52</id>
+		<nme>BRUHAlarmNotif</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>536</code>
+			<Str sr="arg0" ve="3">Alarm</Str>
+			<Str sr="arg1" ve="3">Motion detected at %BRUHAlarm door.</Str>
+			<Img sr="arg2" ve="2">
+				<nme>cust_warning</nme>
+			</Img>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="3"/>
+			<ListElementItem sr="item0">
+				<label>View Camera</label>
+				<Action sr="action" ve="7">
+					<code>20</code>
+					<App sr="arg0">
+						<appClass>com.rcreations.WebCamViewerPaid.IpCamViewerActivity</appClass>
+						<appPkg>com.rcreations.WebCamViewerPaid</appPkg>
+						<label>IP Cam Viewer</label>
+					</App>
+					<Str sr="arg1" ve="3"/>
+					<Int sr="arg2" val="0"/>
+					<Int sr="arg3" val="0"/>
+				</Action>
+				<Img sr="icon" ve="2">
+					<nme>hd_aaa_ext_tiles_small</nme>
+				</Img>
+			</ListElementItem>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>171</code>
+			<Int sr="arg0" val="8000"/>
+			<Int sr="arg1" val="500"/>
+			<Int sr="arg2" val="50"/>
+			<Int sr="arg3" val="2"/>
+		</Action>
+	</Task>
+</TaskerData>

@@ -1,0 +1,68 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task16">
+		<cdate>1410878072922</cdate>
+		<edate>1440039431346</edate>
+		<id>16</id>
+		<nme>BRUHAptAlertMotion</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>536</code>
+			<Str sr="arg0" ve="3">Alert</Str>
+			<Str sr="arg1" ve="3">Somebody has entered your apartment.</Str>
+			<Img sr="arg2" ve="2">
+				<nme>cust_warning</nme>
+			</Img>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="3"/>
+			<ListElementItem sr="item0">
+				<label>Picture</label>
+				<Action sr="action" ve="7">
+					<code>130</code>
+					<Str sr="arg0" ve="3">OpenIPCamPic</Str>
+					<Int sr="arg1">
+						<var>%priority</var>
+					</Int>
+					<Str sr="arg2" ve="3"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Int sr="arg5" val="0"/>
+				</Action>
+				<Img sr="icon" ve="2">
+					<nme>cust_email</nme>
+				</Img>
+			</ListElementItem>
+			<ListElementItem sr="item1">
+				<label>Live Camera</label>
+				<Action sr="action" ve="7">
+					<code>20</code>
+					<App sr="arg0">
+						<appClass>com.rcreations.WebCamViewerPaid.IpCamViewerActivity</appClass>
+						<appPkg>com.rcreations.WebCamViewerPaid</appPkg>
+						<label>IP Cam Viewer</label>
+					</App>
+					<Str sr="arg1" ve="3"/>
+					<Int sr="arg2" val="0"/>
+					<Int sr="arg3" val="0"/>
+				</Action>
+				<Img sr="icon" ve="2">
+					<nme>hd_device_access_camera</nme>
+				</Img>
+			</ListElementItem>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>171</code>
+			<Int sr="arg0" val="2849"/>
+			<Int sr="arg1" val="56"/>
+			<Int sr="arg2" val="50"/>
+			<Int sr="arg3" val="2"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>171</code>
+			<Int sr="arg0" val="3912"/>
+			<Int sr="arg1" val="101"/>
+			<Int sr="arg2" val="50"/>
+			<Int sr="arg3" val="2"/>
+		</Action>
+	</Task>
+</TaskerData>

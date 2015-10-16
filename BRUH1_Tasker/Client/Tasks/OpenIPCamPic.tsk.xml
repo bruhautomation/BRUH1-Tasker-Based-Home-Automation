@@ -1,0 +1,92 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task100">
+		<cdate>1431113051436</cdate>
+		<edate>1439742412104</edate>
+		<id>100</id>
+		<nme>OpenIPCamPic</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.google.android.apps.messaging.ui.ConversationListActivity</appClass>
+				<appPkg>com.google.android.apps.messaging</appPkg>
+				<label>Messenger</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>12931</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>com.google.android.apps.messaging:id/swipeableContainer</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionTimeout>&lt;null&gt;</ActionTimeout>
+					<ActionTimeout-type>java.lang.String</ActionTimeout-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<FieldSelectionType>1</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Id
+Value: com.google.android.apps.messaging:id/swipeableContainer
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid StoredAction ActionId FieldSelectionType ActionType ActionTimeout NearbyText </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>4101d122-c82d-4b89-b53d-6a5f67213a33</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">AutoInput Action</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>12931</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>362,1169</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionTimeout>&lt;null&gt;</ActionTimeout>
+					<ActionTimeout-type>java.lang.String</ActionTimeout-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<FieldSelectionType>5</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
+Value: 362,1169
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid StoredAction ActionId FieldSelectionType ActionType ActionTimeout NearbyText </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>c0c0ff04-ebac-4880-97f9-ead48b60cfab</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">AutoInput Action</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+	</Task>
+</TaskerData>

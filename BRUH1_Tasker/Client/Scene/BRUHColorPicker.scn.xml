@@ -1,0 +1,647 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<dmetric>1920.0,1080.0</dmetric>
+	<Scene sr="sceneBRUHColorPicker">
+		<cdate>1369147743159</cdate>
+		<edate>1440080662626</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>1128</heightPort>
+		<nme>BRUHColorPicker</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>720</widthPort>
+		<TextElement sr="elements0" ve="3">
+			<flags>4</flags>
+			<geom>0,0,719,198,6,0,294,72</geom>
+			<Str sr="arg0" ve="3">Bar</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFF4F5F5</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">%BRUHcolor</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="2"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<SliderElement sr="elements1">
+			<flags>4</flags>
+			<geom>100,551,591,92,33,332,616,92</geom>
+			<valueselectedTask>122</valueselectedTask>
+			<Str sr="arg0" ve="3">SliderT</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="255"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="1"/>
+			<Img sr="arg6" ve="2"/>
+		</SliderElement>
+		<TextElement sr="elements10" ve="3">
+			<flags>4</flags>
+			<geom>26,650,100,100,0,328,100,100</geom>
+			<Str sr="arg0" ve="3">Text11</Str>
+			<Str sr="arg1" ve="3">R</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<TextElement sr="elements11" ve="3">
+			<flags>4</flags>
+			<geom>26,748,100,100,0,328,100,100</geom>
+			<Str sr="arg0" ve="3">Text12</Str>
+			<Str sr="arg1" ve="3">G</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<TextElement sr="elements12" ve="3">
+			<flags>4</flags>
+			<geom>26,847,100,100,0,328,100,100</geom>
+			<Str sr="arg0" ve="3">Text13</Str>
+			<Str sr="arg1" ve="3">B</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<TextElement sr="elements13" ve="3">
+			<flags>4</flags>
+			<geom>100,0,619,196,6,0,294,72</geom>
+			<Str sr="arg0" ve="3">Text2</Str>
+			<Str sr="arg1" ve="3">BRUH Color Picker</Str>
+			<Int sr="arg2" val="20"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FFF4F5F5</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3">%BRUHcolor</Str>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="2"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</TextElement>
+		<ImageElement sr="elements14" ve="2">
+			<clickTask>80</clickTask>
+			<flags>4</flags>
+			<geom>26,33,114,124,26,36,98,99</geom>
+			<Str sr="arg0" ve="3">Image11</Str>
+			<Img sr="arg1" ve="2">
+				<nme>hd_ab_navigation_back</nme>
+			</Img>
+			<Int sr="arg2" val="255"/>
+			<Str sr="arg3" ve="3">#FF0099CC</Str>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</ImageElement>
+		<SliderElement sr="elements2">
+			<flags>4</flags>
+			<geom>100,650,591,92,33,427,616,92</geom>
+			<valueselectedTask>168</valueselectedTask>
+			<Str sr="arg0" ve="3">SliderR</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="255"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="1"/>
+			<Img sr="arg6" ve="2"/>
+		</SliderElement>
+		<SliderElement sr="elements3">
+			<flags>4</flags>
+			<geom>100,748,587,92,33,522,616,92</geom>
+			<valueselectedTask>169</valueselectedTask>
+			<Str sr="arg0" ve="3">SliderG</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="255"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="1"/>
+			<Img sr="arg6" ve="2"/>
+		</SliderElement>
+		<SliderElement sr="elements4">
+			<flags>4</flags>
+			<geom>100,847,587,92,33,617,612,92</geom>
+			<valueselectedTask>139</valueselectedTask>
+			<Str sr="arg0" ve="3">SliderB</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="255"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="1"/>
+			<Img sr="arg6" ve="2"/>
+		</SliderElement>
+		<RectElement sr="elements5">
+			<flags>4</flags>
+			<geom>199,230,321,275,175,48,321,275</geom>
+			<Str sr="arg0" ve="3">Color</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#FF808080</Str>
+			<Str sr="arg3" ve="3">#77333333</Str>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="12"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<EditTextElement sr="elements6" ve="3">
+			<flags>4</flags>
+			<geom>35,946,214,148,33,736,214,69</geom>
+			<valueselectedTask>107</valueselectedTask>
+			<Str sr="arg0" ve="3">ColorHex</Str>
+			<Str sr="arg1" ve="3">#FF808080</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="2"/>
+			<Int sr="arg8" val="1000"/>
+			<RectElement sr="background">
+				<flags>4</flags>
+				<geom>-1,-1,-1,-1,-1,-1,-1,-1</geom>
+				<Str sr="arg0" ve="3"/>
+				<Int sr="arg1" val="0"/>
+				<Str sr="arg2" ve="3"/>
+				<Str sr="arg3" ve="3"/>
+				<Int sr="arg4" val="0"/>
+				<Str sr="arg5" ve="3">#FF000000</Str>
+				<Int sr="arg6" val="0"/>
+				<Int sr="arg7" val="0"/>
+			</RectElement>
+		</EditTextElement>
+		<ButtonElement sr="elements7" ve="3">
+			<clickTask>140</clickTask>
+			<flags>4</flags>
+			<geom>495,946,190,150,507,736,151,72</geom>
+			<Str sr="arg0" ve="3">ButtonOK</Str>
+			<Str sr="arg1" ve="3">OK</Str>
+			<Int sr="arg2" val="18"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements8" ve="3">
+			<flags>4</flags>
+			<geom>273,946,190,150,294,736,190,72</geom>
+			<Str sr="arg0" ve="3">ButtonCancel</Str>
+			<Str sr="arg1" ve="3">Cancel</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements9" ve="3">
+			<flags>4</flags>
+			<geom>26,551,100,100,0,328,100,100</geom>
+			<Str sr="arg0" ve="3">Text1</Str>
+			<Str sr="arg1" ve="3">T</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3">Tasker/Roboto-Medium.ttf</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#FFDEDEDE</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">Color Picker</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task107">
+		<cdate>1369149183709</cdate>
+		<edate>1369149183709</edate>
+		<id>107</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>37</code>
+			<label>Hex Test</label>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%new_val</lhs>
+					<op>4</op>
+					<rhs>^#[0-9A-Fa-f]{8}$</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%BRUHcolor</Str>
+			<Str sr="arg1" ve="3">%new_val</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorB</Str>
+			<Int sr="arg1" val="22"/>
+			<Str sr="arg2" ve="3">%decb</Str>
+		</Action>
+		<Action sr="act11" ve="7">
+			<code>50</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">SliderT</Str>
+			<Int sr="arg2">
+				<var>%dect</var>
+			</Int>
+		</Action>
+		<Action sr="act12" ve="7">
+			<code>50</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">SliderR</Str>
+			<Int sr="arg2">
+				<var>%decr</var>
+			</Int>
+		</Action>
+		<Action sr="act13" ve="7">
+			<code>50</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">SliderG</Str>
+			<Int sr="arg2">
+				<var>%decg</var>
+			</Int>
+		</Action>
+		<Action sr="act14" ve="7">
+			<code>50</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">SliderB</Str>
+			<Int sr="arg2">
+				<var>%decb</var>
+			</Int>
+		</Action>
+		<Action sr="act15" ve="7">
+			<code>38</code>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>55</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">Color</Str>
+			<Str sr="arg2" ve="3">%PickedColor</Str>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>597</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="2"/>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">%ColorT</Str>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>597</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="4"/>
+			<Int sr="arg2" val="2"/>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">%ColorR</Str>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>597</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="2"/>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">%ColorG</Str>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>597</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="2"/>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">%ColorB</Str>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorT</Str>
+			<Int sr="arg1" val="22"/>
+			<Str sr="arg2" ve="3">%dect</Str>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorR</Str>
+			<Int sr="arg1" val="22"/>
+			<Str sr="arg2" ve="3">%decr</Str>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorG</Str>
+			<Int sr="arg1" val="22"/>
+			<Str sr="arg2" ve="3">%decg</Str>
+		</Action>
+	</Task>
+	<Task sr="task122">
+		<cdate>1369148255985</cdate>
+		<edate>1369148255985</edate>
+		<id>122</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="23"/>
+			<Str sr="arg2" ve="3">%ColorT</Str>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>345</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">%ColorT</Str>
+			<Str sr="arg2" ve="3">%colorlength</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ColorT</Str>
+			<Str sr="arg1" ve="3">0%ColorT</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%colorlength</lhs>
+					<op>6</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorT</Str>
+			<Int sr="arg1" val="29"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PickedColor</Str>
+			<Str sr="arg1" ve="3">#%ColorT%ColorR%ColorG%ColorB</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>51</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">ColorHex</Str>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>55</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">Color</Str>
+			<Str sr="arg2" ve="3">%PickedColor</Str>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+		</Action>
+	</Task>
+	<Task sr="task139">
+		<cdate>1369148779826</cdate>
+		<edate>1369148779826</edate>
+		<id>139</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="23"/>
+			<Str sr="arg2" ve="3">%ColorB</Str>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>345</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">%ColorB</Str>
+			<Str sr="arg2" ve="3">%colorlength</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ColorB</Str>
+			<Str sr="arg1" ve="3">0%ColorB</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%colorlength</lhs>
+					<op>6</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorB</Str>
+			<Int sr="arg1" val="29"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PickedColor</Str>
+			<Str sr="arg1" ve="3">#%ColorT%ColorR%ColorG%ColorB</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>51</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">ColorHex</Str>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>55</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">Color</Str>
+			<Str sr="arg2" ve="3">%PickedColor</Str>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+		</Action>
+	</Task>
+	<Task sr="task140">
+		<cdate>1369152064692</cdate>
+		<edate>1369152064692</edate>
+		<id>140</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%BRUHcolor</Str>
+			<Str sr="arg1" ve="3">%PickedColor</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>49</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+		</Action>
+	</Task>
+	<Task sr="task168">
+		<cdate>1369148736248</cdate>
+		<edate>1369148736248</edate>
+		<id>168</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="23"/>
+			<Str sr="arg2" ve="3">%ColorR</Str>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>345</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">%ColorR</Str>
+			<Str sr="arg2" ve="3">%colorlength</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ColorR</Str>
+			<Str sr="arg1" ve="3">0%ColorR</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%colorlength</lhs>
+					<op>6</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorR</Str>
+			<Int sr="arg1" val="29"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PickedColor</Str>
+			<Str sr="arg1" ve="3">#%ColorT%ColorR%ColorG%ColorB</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>51</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">ColorHex</Str>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>55</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">Color</Str>
+			<Str sr="arg2" ve="3">%PickedColor</Str>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+		</Action>
+	</Task>
+	<Task sr="task169">
+		<cdate>1369148763926</cdate>
+		<edate>1369148763926</edate>
+		<id>169</id>
+		<pri>106</pri>
+		<Action sr="act0" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%new_val</Str>
+			<Int sr="arg1" val="23"/>
+			<Str sr="arg2" ve="3">%ColorG</Str>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>345</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">%ColorG</Str>
+			<Str sr="arg2" ve="3">%colorlength</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ColorG</Str>
+			<Str sr="arg1" ve="3">0%ColorG</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%colorlength</lhs>
+					<op>6</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ColorG</Str>
+			<Int sr="arg1" val="29"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PickedColor</Str>
+			<Str sr="arg1" ve="3">#%ColorT%ColorR%ColorG%ColorB</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>51</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">ColorHex</Str>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+			<Str sr="arg4" ve="3"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>55</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+			<Str sr="arg1" ve="3">Color</Str>
+			<Str sr="arg2" ve="3">%PickedColor</Str>
+			<Str sr="arg3" ve="3">%PickedColor</Str>
+		</Action>
+	</Task>
+	<Task sr="task80">
+		<cdate>1431092969862</cdate>
+		<edate>1431092969862</edate>
+		<id>80</id>
+		<pri>104</pri>
+		<Action sr="act0" ve="7">
+			<code>49</code>
+			<Str sr="arg0" ve="3">BRUHColorPicker</Str>
+		</Action>
+	</Task>
+</TaskerData>

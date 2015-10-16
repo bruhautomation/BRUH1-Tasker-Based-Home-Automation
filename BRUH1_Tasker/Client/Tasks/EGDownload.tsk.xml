@@ -1,0 +1,14 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Task sr="task64">
+		<cdate>1429065809901</cdate>
+		<edate>1444548100816</edate>
+		<id>64</id>
+		<nme>EGDownload</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>102</code>
+			<Str sr="arg0" ve="3">%arfiles(1)</Str>
+			<Str sr="arg1" ve="3"/>
+		</Action>
+	</Task>
+</TaskerData>
